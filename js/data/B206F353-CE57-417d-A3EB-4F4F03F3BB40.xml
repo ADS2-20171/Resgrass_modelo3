@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("1.1.1.8:1", "", "Sistema", "EARoot/EA1/EA1/EA1/EA8/EA135.htm", "175.png", "4", "0", "", "Logical diagram0","{1092B5CC-9A3F-44e8-A42A-197814487571}");
+tocTab[tocTab.length] = new Array("1.1.1.8:2", "", ": Reserva_Cancha", "EARoot/EA1/EA1/EA1/EA8/EA137.htm", "25.png", "81", "0", "", "Object0","{BB8D1F6D-D4B8-4cd1-B035-7B96C3553046}");
+tocTab[tocTab.length] = new Array("1.1.1.8:3", "", "Boleta", "EARoot/EA1/EA1/EA1/EA8/EA138.htm", "5.png", "28", "0", "", "Class0","{DB302F10-5049-4482-AA27-027EDD7FE6E3}");
+tocTab[tocTab.length] = new Array("1.1.1.8:4", "", "Caja", "EARoot/EA1/EA1/EA1/EA8/EA139.htm", "5.png", "26", "0", "", "Class0","{FF6DD5A9-40BC-4d1c-A976-6C21E6A33810}");
+tocTab[tocTab.length] = new Array("1.1.1.8:5", "", "Detalle_Comprobante", "EARoot/EA1/EA1/EA1/EA8/EA140.htm", "5.png", "32", "0", "", "Class0","{56DC3398-76F3-4b94-99D7-7BB85B842F83}");
+tocTab[tocTab.length] = new Array("1.1.1.8:6", "", "django_model", "EARoot/EA1/EA1/EA1/EA8/EA141.htm", "5.png", "33", "0", "", "Class0","{755D302A-E028-45f2-A8B5-F2F0C63BDA0A}");
+tocTab[tocTab.length] = new Array("1.1.1.8:7", "", "Enumerar_Comprobante", "EARoot/EA1/EA1/EA1/EA8/EA142.htm", "5.png", "31", "0", "", "Class0","{F3F804AA-AB1E-4e2c-B73B-7DB95B9423E0}");
+tocTab[tocTab.length] = new Array("1.1.1.8:8", "", "Factura", "EARoot/EA1/EA1/EA1/EA8/EA143.htm", "5.png", "27", "0", "", "Class0","{47DA566E-3C73-43d7-8800-05454C9723B4}");
+tocTab[tocTab.length] = new Array("1.1.1.8:9", "", "Signal1", "EARoot/EA1/EA1/EA1/EA8/EA144.htm", "196.png", "34", "0", "", "Signal0","{1A1DF300-F8B1-4cbb-A5CE-9CAE7575F10C}");
+tocTab[tocTab.length] = new Array("1.1.1.8:10", "", "«table» Table1", "EARoot/EA1/EA1/EA1/EA8/EA145.htm", "28.png", "40", "0", "", "Class0","{6977D6CF-34C4-4470-B436-53A09168232C}");

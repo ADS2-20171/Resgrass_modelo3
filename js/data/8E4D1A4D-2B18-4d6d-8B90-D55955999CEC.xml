@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("1.1.1.9:1", "", "Pagos  y Confirmacion", "EARoot/EA1/EA1/EA1/EA9/EA146.htm", "175.png", "7", "0", "", "Logical diagram0","{67F39FE7-344E-4873-8BEB-5C23C45BB9C9}");
+tocTab[tocTab.length] = new Array("1.1.1.9:2", "", "Cliente", "EARoot/EA1/EA1/EA1/EA9/EA148.htm", "5.png", "49", "0", "", "Class0","{7AB444B9-3343-485b-8550-4C120BB8F210}");
+tocTab[tocTab.length] = new Array("1.1.1.9:3", "", "cliente", "EARoot/EA1/EA1/EA1/EA9/EA149.htm", "5.png", "76", "0", "", "Class0","{02566FAC-CA35-4ada-A5C0-187AD955463D}");
+tocTab[tocTab.length] = new Array("1.1.1.9:4", "", "Cliente Corporativo", "EARoot/EA1/EA1/EA1/EA9/EA150.htm", "5.png", "51", "0", "", "Class0","{F493F4A8-133B-4726-B493-893C3BEE7740}");
+tocTab[tocTab.length] = new Array("1.1.1.9:5", "", "Confirmacion_Reserva_Pago", "EARoot/EA1/EA1/EA1/EA9/EA151.htm", "5.png", "60", "0", "", "Class0","{4966530E-E445-499e-B594-3C96E942F907}");
+tocTab[tocTab.length] = new Array("1.1.1.9:6", "", "Cuenta_Corriente", "EARoot/EA1/EA1/EA1/EA9/EA152.htm", "5.png", "73", "0", "", "Class0","{86446522-375C-4a5d-BA0A-FC266CEC5498}");
+tocTab[tocTab.length] = new Array("1.1.1.9:7", "", "detalle_pago", "EARoot/EA1/EA1/EA1/EA9/EA153.htm", "5.png", "75", "0", "", "Class0","{8DB19E22-4CED-4dea-A169-A7315A46AD14}");
+tocTab[tocTab.length] = new Array("1.1.1.9:8", "", "Goolgle maps", "EARoot/EA1/EA1/EA1/EA9/EA154.htm", "5.png", "58", "0", "", "Class0","{2C0A30C1-B70D-4a4e-92F4-1E789C9745C3}");
+tocTab[tocTab.length] = new Array("1.1.1.9:9", "", "Linea_Reserva", "EARoot/EA1/EA1/EA1/EA9/EA155.htm", "5.png", "55", "0", "", "Class0","{A2C6CA9A-A55A-49d8-AA95-EB346C6495A2}");
+tocTab[tocTab.length] = new Array("1.1.1.9:10", "", "Pedido", "EARoot/EA1/EA1/EA1/EA9/EA156.htm", "5.png", "53", "0", "", "Class0","{13784580-18F9-41cd-B640-190B5C0CCB5F}");
+tocTab[tocTab.length] = new Array("1.1.1.9:11", "", "Reserva", "EARoot/EA1/EA1/EA1/EA9/EA157.htm", "5.png", "56", "0", "", "Class0","{37C94AD9-C96E-42b0-B6E5-BD780BB26209}");
+tocTab[tocTab.length] = new Array("1.1.1.9:12", "", "Revision_pago", "EARoot/EA1/EA1/EA1/EA9/EA158.htm", "5.png", "144", "0", "", "Class0","{9A6F4BB7-B74D-4618-A57A-94CB4376CE97}");
+tocTab[tocTab.length] = new Array("1.1.1.9:13", "", "Sistema_Pago", "EARoot/EA1/EA1/EA1/EA9/EA159.htm", "5.png", "57", "0", "", "Class0","{9DE81FA9-0B5D-48b2-96A7-0C84852BAF85}");
+tocTab[tocTab.length] = new Array("1.1.1.9:14", "", "Tarjeta_ Credito", "EARoot/EA1/EA1/EA1/EA9/EA160.htm", "5.png", "52", "0", "", "Class0","{5F72486F-92E1-481f-AE8C-18B88113DC19}");
+tocTab[tocTab.length] = new Array("1.1.1.9:15", "", "Tiempo_Reserva", "EARoot/EA1/EA1/EA1/EA9/EA161.htm", "5.png", "59", "0", "", "Class0","{71941E0A-2A0B-4445-838E-1B1D4CB81CDD}");
+tocTab[tocTab.length] = new Array("1.1.1.9:16", "", "Tipo de Cliente", "EARoot/EA1/EA1/EA1/EA9/EA162.htm", "5.png", "50", "0", "", "Class0","{578E3382-18A2-4bfb-B465-F81B34ACFA8D}");
+tocTab[tocTab.length] = new Array("1.1.1.9:17", "", "Vendedor", "EARoot/EA1/EA1/EA1/EA9/EA163.htm", "5.png", "54", "0", "", "Class0","{95137590-DEAE-4fc6-95AB-638BA0322F17}");
